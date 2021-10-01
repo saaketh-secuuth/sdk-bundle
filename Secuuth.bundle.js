@@ -102,7 +102,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"HOST\": () => (/* binding */ HOST),\n/* harmony export */   \"CSSURL\": () => (/* binding */ CSSURL)\n/* harmony export */ });\nconst HOST = \"http://localhost:5000\";\r\nconst CSSURL =\r\n  \"https://firebasestorage.googleapis.com/v0/b/charitybh-dc293.appspot.com/o/su%2Fsecuuth.css?alt=media&token=f5aa2257-d506-447e-89ec-afced4a02d48\";\r\n\r\n\r\n\n\n//# sourceURL=webpack://webpack-sample/./node_modules/secuuth-sdk-core/src/constants.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"HOST\": () => (/* binding */ HOST),\n/* harmony export */   \"CSSURL\": () => (/* binding */ CSSURL)\n/* harmony export */ });\nconst HOST = \"https://api.secuuth.io\";\r\nconst CSSURL =\r\n  \"https://firebasestorage.googleapis.com/v0/b/charitybh-dc293.appspot.com/o/su%2Fsecuuth.css?alt=media&token=f5aa2257-d506-447e-89ec-afced4a02d48\";\r\n\r\n\r\n\n\n//# sourceURL=webpack://webpack-sample/./node_modules/secuuth-sdk-core/src/constants.js?");
 
 /***/ }),
 
